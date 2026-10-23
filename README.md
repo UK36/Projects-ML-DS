@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SnapClass — AI Attendance System
 
 Take class attendance with **face recognition** (classroom photos) or **voice recognition** (students say "I am present").
@@ -99,3 +100,7 @@ Landing page opens in browser at: `http://localhost:5002`
 - **Configurable Share URL:** QR and join links use configured `APP_URL` instead of a hardcoded domain.
 - **Schema Included:** Ready-to-run `schema.sql` for 1-click database initialization.
 - **Windows Launchers:** `run_app.bat` and `run_landing.bat` for one-click startup.
+=======
+# Minor-Projects-ML-DS
+A Machine Learning and Data Science project focused on data preprocessing, analysis, visualization, model training, and prediction using Python and Scikit-learn.
+>>>>>>> 9d5f808a6364c5b51eabfb3b2a0e91c8db15f42d
