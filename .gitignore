@@ -1,0 +1,35 @@
+# Virtual Environments
+venv/
+app/venv/
+.venv/
+env/
+
+# Environment Variables & Secrets
+.env
+app/.env
+*.env
+.streamlit/secrets.toml
+app/.streamlit/secrets.toml
+
+# Binaries & Executables
+cloudflared.exe
+*.exe
+
+# Local Databases
+app/data/*.db
+*.db
+*.sqlite3
+
+# Python Cache & Bytecode
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System & IDE
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
